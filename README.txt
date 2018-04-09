@@ -1,3 +1,6 @@
+This program allows you to generate network properties after having loaded a network either from a SNAP file, a PostgreSQL Database, a random network or a Scale-free network
+
+
 There are 3 .py files and 1 .txt file:
 
 1. gui_obj.py: the main Python file for the GUI.
